@@ -1,6 +1,6 @@
 🔀 Mastering C#<br><br>
 ---
-<br>⛔ ***Basic***<br>
+<br>⛔ ***Basic***<br><br>
  &nbsp;&nbsp;&nbsp;► #01 Introduction to .NET: https://youtu.be/TxaZYXtZWCM<br>
  &nbsp;&nbsp;&nbsp;► #02 Solution and Project: https://youtu.be/t2aMZFzV3jI<br>
  &nbsp;&nbsp;&nbsp;► #03 Variables: https://youtu.be/j87UkenRf7k<br>
@@ -9,7 +9,7 @@
  &nbsp;&nbsp;&nbsp;► #06 Expressions: https://youtu.be/eOqTJWuCXho<br>
  &nbsp;&nbsp;&nbsp;► #07 Casting / Type Conversion: https://youtu.be/ByIQf4VS2d4<br>
  &nbsp;&nbsp;&nbsp;► #08 Troubleshooting And Debugging: https://youtu.be/KM7oJW_XW8I<br>
-<br>⛔***Intermediate - OOP and structured Programming***<br>
+<br>⛔***Intermediate - OOP and structured Programming***<br><br>
  &nbsp;&nbsp;&nbsp;► #09 Field & Constant: https://youtu.be/LEhv_owDo0o<br>
  &nbsp;&nbsp;&nbsp;► #10 Methods: https://youtu.be/GkmlPDc_5Dc<br>
  &nbsp;&nbsp;&nbsp;► #11 Constructor: https://youtu.be/pkQHHS3XAa8<br>
@@ -24,7 +24,7 @@
  &nbsp;&nbsp;&nbsp;► #20 Enum: https://youtu.be/3pbfQ-ZDoyc<br>
  &nbsp;&nbsp;&nbsp;► #21 Inheritance: https://youtu.be/cw1BXqkok1k<br>
  &nbsp;&nbsp;&nbsp;► #22 Interface: https://youtu.be/02EEtFtes_0<br>
-<br>⛔ ***Advanced***<br>
+<br>⛔ ***Advanced***<br><br>
  &nbsp;&nbsp;&nbsp;► #23 Generics: https://youtu.be/xE6bS6EfKAc<br>
  &nbsp;&nbsp;&nbsp;► #24 Generic Delegate Types: https://youtu.be/QgiaxQa2ccw<br>
  &nbsp;&nbsp;&nbsp;► #25 Exceptions: https://youtu.be/mA1pOrYAHCU<br>
