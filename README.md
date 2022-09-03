@@ -1,10 +1,10 @@
- 🔀 Mastering C#
+ 🔀 Mastering C#<br><br>
 
-⛔ Basic
- ► #01 Introduction to .NET: https://youtu.be/TxaZYXtZWCM
- ► #02 Solution and Project: https://youtu.be/t2aMZFzV3jI
- ► #03 Variables: https://youtu.be/j87UkenRf7k
- ► #04 Boolean Types & Operators: https://youtu.be/D9VD0mn6mss
+⛔ Basic<br>
+ ► #01 Introduction to .NET: https://youtu.be/TxaZYXtZWCM<br>
+ ► #02 Solution and Project: https://youtu.be/t2aMZFzV3jI<br>
+ ► #03 Variables: https://youtu.be/j87UkenRf7k<br>
+ ► #04 Boolean Types & Operators: https://youtu.be/D9VD0mn6mss<br>
  ► #05 Arrays: https://youtu.be/XTB3V6R1L-c
  ► #06 Expressions: https://youtu.be/eOqTJWuCXho
  ► #07 Casting / Type Conversion: https://youtu.be/ByIQf4VS2d4
