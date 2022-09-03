@@ -1,4 +1,4 @@
-🔀 Mastering C#<br><br>
+🔀 Mastering C#
 ---
 <br>⛔ ***Basic***<br><br>
  &nbsp;&nbsp;&nbsp;► #01 Introduction to .NET: https://youtu.be/TxaZYXtZWCM<br>
@@ -111,7 +111,7 @@
  &nbsp;&nbsp;&nbsp;► #02 Class Diagram: https://youtu.be/ErrYTi9ibx4 <br>
  
 
-🔀 dotnet CLI and VsCode<br>
+🔀 dotnet CLI and VsCode
 ---
  &nbsp;&nbsp;&nbsp;► #01 Introduction to .NET CLI: https://youtu.be/3FaIaGzbjMs<br>
  &nbsp;&nbsp;&nbsp;► #02 Introduction to VS.Code: https://youtu.be/ykfeeBeGAMk<br>
