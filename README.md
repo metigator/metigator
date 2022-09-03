@@ -1,6 +1,6 @@
 🔀 Mastering C#<br><br>
 ---
-<br>⛔ ***Basic***<br><br>
+<br>⛔ ***Basic***<br>
  &nbsp;&nbsp;&nbsp;► #01 Introduction to .NET: https://youtu.be/TxaZYXtZWCM<br>
  &nbsp;&nbsp;&nbsp;► #02 Solution and Project: https://youtu.be/t2aMZFzV3jI<br>
  &nbsp;&nbsp;&nbsp;► #03 Variables: https://youtu.be/j87UkenRf7k<br>
@@ -9,7 +9,7 @@
  &nbsp;&nbsp;&nbsp;► #06 Expressions: https://youtu.be/eOqTJWuCXho<br>
  &nbsp;&nbsp;&nbsp;► #07 Casting / Type Conversion: https://youtu.be/ByIQf4VS2d4<br>
  &nbsp;&nbsp;&nbsp;► #08 Troubleshooting And Debugging: https://youtu.be/KM7oJW_XW8I<br>
-<br>⛔***Intermediate - OOP and structured Programming***<br><br>
+<br>⛔***Intermediate - OOP and structured Programming***<br>
  &nbsp;&nbsp;&nbsp;► #09 Field & Constant: https://youtu.be/LEhv_owDo0o<br>
  &nbsp;&nbsp;&nbsp;► #10 Methods: https://youtu.be/GkmlPDc_5Dc<br>
  &nbsp;&nbsp;&nbsp;► #11 Constructor: https://youtu.be/pkQHHS3XAa8<br>
@@ -24,7 +24,7 @@
  &nbsp;&nbsp;&nbsp;► #20 Enum: https://youtu.be/3pbfQ-ZDoyc<br>
  &nbsp;&nbsp;&nbsp;► #21 Inheritance: https://youtu.be/cw1BXqkok1k<br>
  &nbsp;&nbsp;&nbsp;► #22 Interface: https://youtu.be/02EEtFtes_0<br>
-<br>⛔ ***Advanced***<br><br>
+<br>⛔ ***Advanced***<br>
  &nbsp;&nbsp;&nbsp;► #23 Generics: https://youtu.be/xE6bS6EfKAc<br>
  &nbsp;&nbsp;&nbsp;► #24 Generic Delegate Types: https://youtu.be/QgiaxQa2ccw<br>
  &nbsp;&nbsp;&nbsp;► #25 Exceptions: https://youtu.be/mA1pOrYAHCU<br>
@@ -50,7 +50,7 @@
  &nbsp;&nbsp;&nbsp;► #44 Strings Deep Dive: https://youtu.be/-Mtg5K_iaoU<br>
  &nbsp;&nbsp;&nbsp;► #45 StringBuilder Deep Dive: https://youtu.be/W6zq_rllF6Q<br>
 
-🔀### SQL Server and RDBMS course <br>
+🔀### SQL Server and RDBMS course
 ---
  &nbsp;&nbsp;&nbsp;► #01 SQL Server & Database: https://youtu.be/QO8DtgX5pnU<br>
  &nbsp;&nbsp;&nbsp;► #02 Introduction To Database: https://youtu.be/gm12_NaDAug<br>
@@ -62,7 +62,7 @@
  &nbsp;&nbsp;&nbsp;► #08 Mastering DB Queries: https://youtu.be/oSLeuvYxK_Y<br>
 
  
-🔀### Design Principles<br>
+🔀 Design Principles
 ---
  &nbsp;&nbsp;&nbsp;► #01 Introduction : https://youtu.be/8ERTNH0diNo<br>
  &nbsp;&nbsp;&nbsp;► #02 Encapsulate What Varies: https://youtu.be/IDOoRUTEsy4<br>
@@ -74,7 +74,7 @@
  &nbsp;&nbsp;&nbsp;► #08 SOLID - Interface Segregation Principle [ISP]: https://youtu.be/3YvagT89dKE<br>
  &nbsp;&nbsp;&nbsp;► #09 SOLID - Dependency Inversion Principle [DIP]: https://youtu.be/q8hZN0tJlBY<br>
  
-🔀### Mastering LINQ<br>
+🔀 Mastering LINQ
 ---
   ► #01 Pure Vs. Impure Function: https://youtu.be/XLIqOBr7Cm0<br>
   &nbsp;&nbsp;&nbsp;► #02 Functional Programming: https://youtu.be/_fE7q11rt40<br>
@@ -97,7 +97,7 @@
   &nbsp;&nbsp;&nbsp;► #19 Custom LINQ Extension Method: https://youtu.be/QJXNCa6DGQs<br>
   &nbsp;&nbsp;&nbsp;► #20 LINQ Anatomy: https://youtu.be/oPbTgRi0JoA<br>
   
-🔀### Unit Testing and Software Testing<br>
+🔀 Unit Testing and Software Testing
 ---
  &nbsp;&nbsp;&nbsp;► #01 Introduction: https://youtu.be/HzjMcd1jEio<br>
  &nbsp;&nbsp;&nbsp;► #02 Testing code with Frameworks: https://youtu.be/cI45zJ1FapM<br>
@@ -105,18 +105,18 @@
  &nbsp;&nbsp;&nbsp;► #04 Mocking Dependencies: https://youtu.be/JaIeeGqsO9M<br>
  &nbsp;&nbsp;&nbsp;► #05 Fact, Theory & Code Coverage:  https://youtu.be/W5w-5EK94wc<br>
  
-🔀### Unified Modeling Language<br>
+🔀 Unified Modeling Language
 ---
  &nbsp;&nbsp;&nbsp;► #01 Introduction: https://youtu.be/qlNlZ1xMVtU<br>
  &nbsp;&nbsp;&nbsp;► #02 Class Diagram: https://youtu.be/ErrYTi9ibx4 <br>
  
 
-🔀### dotnet CLI and VsCode<br><br>
+🔀 dotnet CLI and VsCode<br>
 ---
  &nbsp;&nbsp;&nbsp;► #01 Introduction to .NET CLI: https://youtu.be/3FaIaGzbjMs<br>
  &nbsp;&nbsp;&nbsp;► #02 Introduction to VS.Code: https://youtu.be/ykfeeBeGAMk<br>
  
-🔀### Version Source Control<br>
+🔀 Version Source Control
 ---
  &nbsp;&nbsp;&nbsp;► #01 Introduction to Version Source Control: https://youtu.be/vmKeIpVaPvQ<br>
  &nbsp;&nbsp;&nbsp;► #02 Basic Git Workflow: https://youtu.be/VxMFMgnpV3A<br>
@@ -125,7 +125,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► #05 GIT Branching and Merging: https://youtu.be/o2PW8xe5CSk<br>
  &nbsp;&nbsp;&nbsp;► #06 Pull Request essentials: https://youtu.be/GwKLwJgm7Qw<br>
  
- 🔀###### Code Take away<br>
+ 🔀 Code Take away
  ---
  &nbsp;&nbsp;&nbsp;► #01 Evil IF-Else : https://youtu.be/ANnd4VQ1VD4<br>
  &nbsp;&nbsp;&nbsp;► #02 Enum Alternatives: https://youtu.be/RZYNZ-WvWcg<br>
