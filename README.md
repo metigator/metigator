@@ -122,7 +122,7 @@
  &nbsp;&nbsp;&nbsp;► #02 Basic Git Workflow: https://youtu.be/VxMFMgnpV3A<br>
  &nbsp;&nbsp;&nbsp;► #03 Github remote repositories: https://youtu.be/1KDXTQvmPbo<br>
  &nbsp;&nbsp;&nbsp;► #04 Dealing with remote repositories: https://youtu.be/K7cGrHdO4Ow<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► #05 GIT Branching and Merging: https://youtu.be/o2PW8xe5CSk<br>
+ &nbsp;&nbsp;&nbsp;► #05 GIT Branching and Merging: https://youtu.be/o2PW8xe5CSk<br>
  &nbsp;&nbsp;&nbsp;► #06 Pull Request essentials: https://youtu.be/GwKLwJgm7Qw<br>
  
  🔀 Code Take away
@@ -132,3 +132,10 @@
  &nbsp;&nbsp;&nbsp;► #03 Mutable Vs. Immutable: https://youtu.be/bbdmknnwcP8<br>
  &nbsp;&nbsp;&nbsp;► #04 Value Types Vs. Reference Types Deep Dive: https://youtu.be/lfGh6r-T-0g<br>
  &nbsp;&nbsp;&nbsp;► #05 Write Code Like a sentence: https://youtu.be/o2PW8xe5CSk <br>
+
+ 🔀 ADO.NET, ORM And EF-Core
+ ---
+ &nbsp;&nbsp;&nbsp;► #01 Introduction to Data Access and ORM : https://youtu.be/ZxRTyoEeXhk<br>
+ &nbsp;&nbsp;&nbsp;► #02 ADO .NET: https://youtu.be/WEVJeTBifAY<br>
+ &nbsp;&nbsp;&nbsp;► #03 Dapper: https://youtu.be/XjExbuSCIZw<br>
+ &nbsp;&nbsp;&nbsp;► #04 NHibernate: https://youtu.be/JMqza_3rg5Q<br>
