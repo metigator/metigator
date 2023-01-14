@@ -139,8 +139,12 @@
  &nbsp;&nbsp;&nbsp;► #02 ADO .NET: https://youtu.be/WEVJeTBifAY<br>
  &nbsp;&nbsp;&nbsp;► #03 Dapper: https://youtu.be/XjExbuSCIZw<br>
  &nbsp;&nbsp;&nbsp;► #04 NHibernate: https://youtu.be/JMqza_3rg5Q<br>
- &nbsp;&nbsp;&nbsp;► #03 EF-CORE Jump start: https://youtu.be/4edLDnhS0NA<br>
-
+ &nbsp;&nbsp;&nbsp;► #05 EF-CORE Jump start: https://youtu.be/4edLDnhS0NA<br>
+ &nbsp;&nbsp;&nbsp;► #06 DbContext: https://youtu.be/fKaIu43bW6g<br>
+ &nbsp;&nbsp;&nbsp;► #07 EF-CORE Configuration: https://youtu.be/GHyeugqpMPU<br>
+ &nbsp;&nbsp;&nbsp;► #08 EF-CORE Reverse Engineering: https://youtu.be/vBDvSqiseP0<br>
+ 
  🔀 Design Pattern
  ---
  &nbsp;&nbsp;&nbsp;► #01 Introduction to Design Pattern : https://youtu.be/8OitfyFqboA<br>
+ &nbsp;&nbsp;&nbsp;► #02 Singleton :https://youtu.be/-9fFuFkuQeU<br>
