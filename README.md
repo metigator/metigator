@@ -49,7 +49,8 @@
  &nbsp;&nbsp;&nbsp;► #43 Nullable Types: https://youtu.be/6-AdjwK43hM<br>
  &nbsp;&nbsp;&nbsp;► #44 Strings Deep Dive: https://youtu.be/-Mtg5K_iaoU<br>
  &nbsp;&nbsp;&nbsp;► #45 StringBuilder Deep Dive: https://youtu.be/W6zq_rllF6Q<br>
-
+ &nbsp;&nbsp;&nbsp;► #46 Tuple Type: https://youtu.be/_JofriINlVQ<br>
+ 
 🔀### SQL Server and RDBMS course
 ---
  &nbsp;&nbsp;&nbsp;► #01 SQL Server & Database: https://youtu.be/QO8DtgX5pnU<br>
@@ -143,6 +144,10 @@
  &nbsp;&nbsp;&nbsp;► #06 DbContext: https://youtu.be/fKaIu43bW6g<br>
  &nbsp;&nbsp;&nbsp;► #07 EF-CORE Configuration: https://youtu.be/GHyeugqpMPU<br>
  &nbsp;&nbsp;&nbsp;► #08 EF-CORE Reverse Engineering: https://youtu.be/vBDvSqiseP0<br>
+ &nbsp;&nbsp;&nbsp;► #09 EF-CORE Entity Types & Mapping: https://youtu.be/vsS9j_ljMFY<br>
+ &nbsp;&nbsp;&nbsp;► #10 EF-CORE Migration: https://youtu.be/WqiGu_MQ-xw<br>
+ &nbsp;&nbsp;&nbsp;► #11 EF-CORE Migration Part 02 - Relationships: https://youtu.be/r2GAvh41hj8<br>
+ &nbsp;&nbsp;&nbsp;► #12 EF-CORE Migration Part 03: https://youtu.be/pOZmq05uWnE<br>
  
  🔀 Design Pattern
  ---
