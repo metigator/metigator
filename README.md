@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=transparent)****
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=transparent)**** <br>
 🔀 Mastering C#
 ---
 <br>⛔ ***Basic***<br><br>
