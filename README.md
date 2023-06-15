@@ -81,7 +81,7 @@
  
 🚩 Mastering LINQ
 ---
-  ► #01 Pure Vs. Impure Function: https://youtu.be/XLIqOBr7Cm0<br>
+  &nbsp;&nbsp;&nbsp;◆ #01 Pure Vs. Impure Function: https://youtu.be/XLIqOBr7Cm0<br>
   &nbsp;&nbsp;&nbsp;◆ #02 Functional Programming: https://youtu.be/_fE7q11rt40<br>
   &nbsp;&nbsp;&nbsp;◆ #03 Core Of LINQ: https://youtu.be/8jkN8XCj9Og<br>
   &nbsp;&nbsp;&nbsp;◆ #04 Projection Operation: https://youtu.be/XEuXe18D6XY<br>
@@ -152,7 +152,7 @@
  &nbsp;&nbsp;&nbsp;◆ #10 EF Migration #1: https://youtu.be/WqiGu_MQ-xw<br>
  &nbsp;&nbsp;&nbsp;◆ #11 EF Migration #2: https://youtu.be/r2GAvh41hj8<br>
  &nbsp;&nbsp;&nbsp;◆ #12 EF Migration #3 https://youtu.be/pOZmq05uWnE<br>
- &nbsp;&nbsp;&nbsp;◆ #13 EF-CORE Reverse Engineering: https://youtu.be/i5lSGkNJW0A<br>
+ &nbsp;&nbsp;&nbsp;◆ #13 Inheritance Mapping Strategy: https://youtu.be/i5lSGkNJW0A<br>
  
 🚩 Design Pattern
  ---
