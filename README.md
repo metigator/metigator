@@ -153,6 +153,7 @@
  &nbsp;&nbsp;&nbsp;◆ #11 EF Migration #2: https://youtu.be/r2GAvh41hj8<br>
  &nbsp;&nbsp;&nbsp;◆ #12 EF Migration #3 https://youtu.be/pOZmq05uWnE<br>
  &nbsp;&nbsp;&nbsp;◆ #13 Inheritance Mapping Strategy: https://youtu.be/i5lSGkNJW0A<br>
+ &nbsp;&nbsp;&nbsp;◆ #14 EF Create & Drop API: https://youtu.be/5pA5lvbAjec<br>
  
 🚩 Design Pattern
  ---
