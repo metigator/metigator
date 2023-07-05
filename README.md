@@ -159,6 +159,8 @@
  ---
  &nbsp;&nbsp;&nbsp;◆ #01 Introduction to Design Pattern: https://youtu.be/8OitfyFqboA<br>
  &nbsp;&nbsp;&nbsp;◆ #02 Singleton: https://youtu.be/-9fFuFkuQeU<br>
+ &nbsp;&nbsp;&nbsp;◆ #03 Factory: https://youtu.be/nEMbvFTy54Y<br>
+ &nbsp;&nbsp;&nbsp;◆ #04 Strategy:  https://youtu.be/c5G6r8_r80s<br>
 
 🚩 OOP 
  ---
