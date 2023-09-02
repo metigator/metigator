@@ -164,6 +164,7 @@
  &nbsp;&nbsp;&nbsp;◆ #03 Factory: https://youtu.be/nEMbvFTy54Y<br>
  &nbsp;&nbsp;&nbsp;◆ #04 Strategy:  https://youtu.be/c5G6r8_r80s<br>
  &nbsp;&nbsp;&nbsp;◆ #05 Builder:  https://youtu.be/NQxjvSYSKQk<br>
+ &nbsp;&nbsp;&nbsp;◆ #06 Decorator:  https://youtu.be/PBQp5vtiQdg<br>
 
 🚩 OOP 
  ---
