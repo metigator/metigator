@@ -156,6 +156,7 @@
  &nbsp;&nbsp;&nbsp;◆ #14 EF Create & Drop API: https://youtu.be/5pA5lvbAjec<br>
  &nbsp;&nbsp;&nbsp;◆ #15 Query Data Part #1: https://youtu.be/5zKWN9mA6p8<br>
  &nbsp;&nbsp;&nbsp;◆ #16 Query Data Part #2: ◆https://youtu.be/AGZTWWUUD4s <br>
+ &nbsp;&nbsp;&nbsp;◆ #17 Raw SQL Query: ◆https://youtu.be/5HvXbBj7ES0 <br>
  
 🚩 Design Pattern
  ---
