@@ -158,7 +158,8 @@
  &nbsp;&nbsp;&nbsp;◆ #16 Query Data Part #2: ◆https://youtu.be/AGZTWWUUD4s <br>
  &nbsp;&nbsp;&nbsp;◆ #17 Raw SQL Query: ◆https://youtu.be/5HvXbBj7ES0 <br>
  &nbsp;&nbsp;&nbsp;◆ #18 Save Data: https://youtu.be/46O_VAlgedk <br>
- &nbsp;&nbsp;&nbsp;◆ #19 Interceptors: https://youtu.be/hEMCDxqURr8 <br>
+ &nbsp;&nbsp;&nbsp;◆ #19 Interceptors: https://youtu.be/hEMCDxqURr8 <br> 
+ &nbsp;&nbsp;&nbsp;◆ #20 DB Transactions With EF-Core: https://youtu.be/m2RDSxGPuhs <br>
  
 🚩 Design Pattern
  ---
