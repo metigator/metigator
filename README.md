@@ -190,3 +190,5 @@
 &nbsp;&nbsp;&nbsp;◆ #01 Introduction to web development https://youtu.be/hr5fzEgDTAI<br>
 &nbsp;&nbsp;&nbsp;◆ #02 Web Essentials: https://youtu.be/ivi5_JYHcNw<br>
 &nbsp;&nbsp;&nbsp;◆ #03 ASP.NET Tooling Part1: https://youtu.be/ArEF8Q163sY<br>
+&nbsp;&nbsp;&nbsp;◆ #04 ASP.NET Tooling Part2: https://youtu.be/Zv5hyEVD_WQ?si=77tyY6n1aYHbYWBu<br>
+&nbsp;&nbsp;&nbsp;◆ #05 ASP.NET 101: https://youtu.be/-bxjpkFDm0g?si=7veKEB5y3jMR58rN<br>
