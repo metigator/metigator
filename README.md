@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metigator&hide_progress=true)
-![MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB](https://github.com/metigator/metigator/assets/87314838/b399fca8-3689-4ab3-9eb7-377f34ef6b50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metigator&hide_progress=true) 
+![MVP_Badge_Secondary_DarkBlue7694_RGB](https://github.com/metigator/metigator/assets/87314838/661d1b13-335b-41e7-befb-1990a89115db)
 
 <br><br>
 **** 
