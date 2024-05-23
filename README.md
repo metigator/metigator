@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metigator&hide_progress=true)
+![MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB](https://github.com/metigator/metigator/assets/87314838/b399fca8-3689-4ab3-9eb7-377f34ef6b50)
+
 <br><br>
 **** 
 🚩 Mastering C#
