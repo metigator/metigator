@@ -194,3 +194,4 @@
 &nbsp;&nbsp;&nbsp;◆ #03 ASP.NET Tooling Part1: https://youtu.be/ArEF8Q163sY<br>
 &nbsp;&nbsp;&nbsp;◆ #04 ASP.NET Tooling Part2: https://youtu.be/Zv5hyEVD_WQ?si=77tyY6n1aYHbYWBu<br>
 &nbsp;&nbsp;&nbsp;◆ #05 ASP.NET 101: https://youtu.be/-bxjpkFDm0g?si=7veKEB5y3jMR58rN<br>
+&nbsp;&nbsp;&nbsp;◆ #06 ASP.NET App Startup: https://youtu.be/IkFUbgAAv3Q?si=94wqIn9uPhG4yUa4<br>
