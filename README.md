@@ -1,9 +1,10 @@
 # Hello: I am Issam, Thanks for stopping by!
 
+ ![MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB](https://github.com/user-attachments/assets/60da4a31-e5e9-48f7-8806-1d052fc6aaa2)     
 
-|      | |
-|-----------------|----------------|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=dark)     | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)  |   ![MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB](https://github.com/user-attachments/assets/60da4a31-e5e9-48f7-8806-1d052fc6aaa2)     
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=dark)     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) 
 
 
 
