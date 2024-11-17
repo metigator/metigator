@@ -4,8 +4,8 @@
 
 #### ✅  Mastering C   🚀 
 &nbsp;
-   ✔️ [01] Introduction to .NET: https://youtu.be/TxaZYXtZWCM
-   ✔️ [02] Solution and Project: https://youtu.be/t2aMZFzV3jI
+  - ✔️ [01] Introduction to .NET: https://youtu.be/TxaZYXtZWCM
+  - ✔️ [02] Solution and Project: https://youtu.be/t2aMZFzV3jI
    ✔️ [03] Variables: https://youtu.be/j87UkenRf7k
    ✔️ [04] Boolean Types & Operators: https://youtu.be/
    &#8203;✔️ [03] Variables: https://youtu.be/j87UkenRf7k
