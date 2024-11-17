@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/user-attachments/assets/60da4a31-e5e9-48f7-8806-1d052fc6aaa2" alt="MVP Badge" style="width: 33%;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 33%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="Top Languages" style="width: 30%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="Top Languages" style="width: 29%;"/>
 </div>
 
 
