@@ -57,7 +57,7 @@
 
    ✔️ [01] SQL Server & Database: https://youtu.be/QO8DtgX5pnU \
    ✔️ [02] Introduction To Database: https://youtu.be/gm12_NaDAug \
-   ✔️ [03] Database Normalization: https://youtu.be/0Jps8KJSjy4
+   ✔️ [03] Database Normalization: https://youtu.be/0Jps8KJSjy4 \
    ✔️ [04] Data Manipulation Language (DML): https://youtu.be/KZdqZJwsnRw \
    ✔️ [05] Database Indexes: https://youtu.be/F3jRzYhjW7k \
    ✔️ [06] Procedure, Functions And Views: https://youtu.be/0BIobGZlkRg \
@@ -112,7 +112,7 @@
 ✅  Unified Modeling Language 🚀
 
    ✔️ [01] Introduction: https://youtu.be/qlNlZ1xMVtU \
-   ✔️ [02] Class Diagram: https://youtu.be/ErrYTi9ibx4  \
+   ✔️ [02] Class Diagram: https://youtu.be/ErrYTi9ibx4 \
  
 ✅ dotnet CLI and VsCode 🚀 
 
