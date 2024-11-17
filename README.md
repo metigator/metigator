@@ -3,7 +3,7 @@
 ![MVP_Badge_Secondary_DarkBlue7694_RGB](https://github.com/metigator/metigator/assets/87314838/661d1b13-335b-41e7-befb-1990a89115db)
 
 
-✅  Mastering C   🚀 
+#### ✅  Mastering C   🚀 
 
    ✔️ [01] Introduction to .NET: https://youtu.be/TxaZYXtZWCM
    ✔️ [02] Solution and Project: https://youtu.be/t2aMZFzV3jI
@@ -53,7 +53,7 @@
    ✔️ [46] Tuples: https://youtu.be/_JofriINlVQ
  
 
-✅ SQL Server and RDBMS course 🚀 
+#### ✅ SQL Server and RDBMS course 🚀 
 
    ✔️ [01] SQL Server & Database: https://youtu.be/QO8DtgX5pnU
    ✔️ [02] Introduction To Database: https://youtu.be/gm12_NaDAug
@@ -78,7 +78,7 @@
    ✔️ [09] SOLID - Dependency Inversion Principle [DIP]: https://youtu.be/q8hZN0tJlBY
    ✔️ [10] YAGNI & KISS: https://youtu.be/IO07N1D7K9M
  
-✅ Mastering LINQ 🚀 
+#### ✅ Mastering LINQ 🚀 
 
    ✔️ [01] Pure Vs. Impure Function: https://youtu.be/XLIqOBr7Cm0
    ✔️ [02] Functional Programming: https://youtu.be/_fE7q11rt40
@@ -101,7 +101,7 @@
    ✔️ [19] Custom LINQ Extension Method: https://youtu.be/QJXNCa6DGQs
    ✔️ [20] LINQ Anatomy: https://youtu.be/oPbTgRi0JoA
    
-✅  Unit Testing and Software Testing 🚀 
+#### ✅  Unit Testing and Software Testing 🚀 
 
    ✔️ [01] Introduction: https://youtu.be/HzjMcd1jEio
    ✔️ [02] Testing code with Frameworks: https://youtu.be/cI45zJ1FapM
@@ -109,17 +109,17 @@
    ✔️ [04] Mocking Dependencies: https://youtu.be/JaIeeGqsO9M
    ✔️ [05] Fact, Theory & Code Coverage:   ✔️https://youtu.be/W5w-5EK94wc
  
-✅  Unified Modeling Language 🚀 
+#### ✅  Unified Modeling Language 🚀 
 
    ✔️ [01] Introduction: https://youtu.be/qlNlZ1xMVtU
    ✔️ [02] Class Diagram: https://youtu.be/ErrYTi9ibx4 
  
-✅ dotnet CLI and VsCode 🚀 
+#### ✅ dotnet CLI and VsCode 🚀 
 
    ✔️ [01] Introduction to .NET CLI: https://youtu.be/3FaIaGzbjMs
    ✔️ [02] Introduction to VS.Code: https://youtu.be/ykfeeBeGAMk
  
-✅ Version Source Control 🚀 
+#### ✅ Version Source Control 🚀 
 
    ✔️ [01] Introduction to Version Source Control: https://youtu.be/vmKeIpVaPvQ
    ✔️ [02] Basic Git Workflow: https://youtu.be/VxMFMgnpV3A
@@ -128,7 +128,7 @@
    ✔️ [05] GIT Branching and Merging: https://youtu.be/o2PW8xe5CSk
    ✔️ [06] Pull Request essentials: https://youtu.be/GwKLwJgm7Qw
  
-✅  Code Take away 🚀
+#### ✅ Code Take away 🚀
 
    ✔️ [01] Evil IF-Else : https://youtu.be/ANnd4VQ1VD4
    ✔️ [02] Enum Alternatives: https://youtu.be/RZYNZ-WvWcg
@@ -144,7 +144,7 @@
    ✔️ [10] Fluent Configuration: https://youtu.be/lj7uFsiLr58
    ✔️ [11] Date & Time Distilled .NET: https://youtu.be/CQvM5oMitm4
 
-✅ ADO.NET, ORM And EF-Core 🚀 
+#### ✅ ADO.NET, ORM And EF-Core 🚀 
 
    ✔️ [01] Introduction to Data Access and ORM : https://youtu.be/ZxRTyoEeXhk
    ✔️ [02] ADO .NET: https://youtu.be/WEVJeTBifAY
@@ -167,7 +167,7 @@
    ✔️ [19] Interceptors: https://youtu.be/hEMCDxqURr8   ✔️
    ✔️ [20] DB Transactions With EF-Core: https://youtu.be/m2RDSxGPuhs 
  
-✅  Design Pattern 🚀 
+#### ✅  Design Pattern 🚀 
 
    ✔️ [01] Introduction to Design Pattern: https://youtu.be/8OitfyFqboA
    ✔️ [02] Singleton: https://youtu.be/-9fFuFkuQeU
@@ -176,7 +176,7 @@
    ✔️ [05] Builder: https://youtu.be/NQxjvSYSKQk
    ✔️ [06] Decorator: https://youtu.be/PBQp5vtiQdg
 
-✅  OOP 🚀 
+#### ✅  OOP 🚀 
 
    ✔️ [01] Introduction to OOP: https://youtu.be/vo_vktaAK9o
    ✔️ [02] Procedural Vs OOP: https://youtu.be/ZOuOltL2IsU
@@ -191,7 +191,7 @@
    ✔️ [11] Polymorphism: https://youtu.be/twon_3eUXRo
    ✔️ [12] Inheritance : https://youtu.be/a1d9y-wxXbs
 
-✅  ASP .NET 🚀 
+#### ✅  ASP .NET 🚀 
 
    ✔️  [01] Introduction to web development https://youtu.be/hr5fzEgDTAI
    ✔️  [02] Web Essentials: https://youtu.be/ivi5_JYHcNw
