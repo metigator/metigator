@@ -2,11 +2,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metigator&hide_progress=true) 
 ![MVP_Badge_Secondary_DarkBlue7694_RGB](https://github.com/metigator/metigator/assets/87314838/661d1b13-335b-41e7-befb-1990a89115db)
 
-
 #### ✅  Mastering C   🚀 
-
-   &#8203;✔️ [01] Introduction to .NET: https://youtu.be/TxaZYXtZWCM
-   &#8203;✔️ [02] Solution and Project: https://youtu.be/t2aMZFzV3jI
+&nbsp;
+   ✔️ [01] Introduction to .NET: https://youtu.be/TxaZYXtZWCM
+   ✔️ [02] Solution and Project: https://youtu.be/t2aMZFzV3jI
+   ✔️ [03] Variables: https://youtu.be/j87UkenRf7k
+   ✔️ [04] Boolean Types & Operators: https://youtu.be/
    &#8203;✔️ [03] Variables: https://youtu.be/j87UkenRf7k
    &#8203;✔️ [04] Boolean Types & Operators: https://youtu.be/D9VD0mn6mss
    &#8203;✔️ [05] Arrays: https://youtu.be/XTB3V6R1L-c
