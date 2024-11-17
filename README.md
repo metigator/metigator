@@ -1,19 +1,12 @@
 # Hello: I am Issam, Thanks for stopping by!
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-Here's how you can create a 3-column, 1-row table in Markdown:
 
-markdown
-Copy code
-|       |      |    |
-|-----------------|----------------|----------------|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=dark)     | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)  |    ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://github.com/user-attachments/assets/57ffb425-e2cf-4069-9109-8f736022940d)
-  |
 
- 
+|     ![MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB](https://github.com/user-attachments/assets/60da4a31-e5e9-48f7-8806-1d052fc6aaa2)         |
+|-----------------|----------------|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=dark)     | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)  |
+
+
+
 
 
 
