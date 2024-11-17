@@ -1,7 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metigator&hide_progress=true) 
-![MVP_Badge_Secondary_DarkBlue7694_RGB](https://github.com/metigator/metigator/assets/87314838/661d1b13-335b-41e7-befb-1990a89115db)
-
+![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://github.com/user-attachments/assets/bae8afa8-0d3f-4b8c-b597-60a7e779504a)
 
 #### ✅  Mastering C   🚀 
 
