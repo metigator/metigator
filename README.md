@@ -12,8 +12,8 @@
    ✔️ [05] Arrays: https://youtu.be/XTB3V6R1L-c \
    ✔️ [06] Expressions: https://youtu.be/eOqTJWuCXho\
    ✔️ [07] Casting / Type Conversion: https://youtu.be/ByIQf4VS2d4 \
-   ✔️ [08] Troubleshooting And Debugging: https://youtu.be/KM7oJW_XW8I
-   ✔️ [09] Field & Constant: https://youtu.be/LEhv_owDo0o
+   ✔️ [08] Troubleshooting And Debugging: https://youtu.be/KM7oJW_XW8I\
+   ✔️ [09] Field & Constant: https://youtu.be/LEhv_owDo0o\
    ✔️ [10] Methods: https://youtu.be/GkmlPDc_5Dc \
    ✔️ [11] Constructor: https://youtu.be/pkQHHS3XAa8 \
    ✔️ [12] Properties: https://youtu.be/2LXzNQSTHTc \
