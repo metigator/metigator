@@ -1,6 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metigator&hide_progress=true) 
-![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://github.com/user-attachments/assets/bae8afa8-0d3f-4b8c-b597-60a7e779504a)
+| Column 1       | Column 2       | Column 3       |
+|-----------------|----------------|----------------|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=transparent)      | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metigator&hide_progress=true)       | ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://github.com/user-attachments/assets/bae8afa8-0d3f-4b8c-b597-60a7e779504a)      |
+
+
+
+
 
 #### ✅  Mastering C   🚀 
 
