@@ -80,6 +80,7 @@
  &nbsp;&nbsp;&nbsp;◆ #07 SOLID - Liskov substitution principle [LSP]: https://youtu.be/jbt2TFjO7Gw<br>
  &nbsp;&nbsp;&nbsp;◆ #08 SOLID - Interface Segregation Principle [ISP]: https://youtu.be/3YvagT89dKE<br>
  &nbsp;&nbsp;&nbsp;◆ #09 SOLID - Dependency Inversion Principle [DIP]: https://youtu.be/q8hZN0tJlBY<br>
+ &nbsp;&nbsp;&nbsp;◆ #10 YAGNI & KISS: https://youtu.be/IO07N1D7K9M<br>
  
 🚩 Mastering LINQ
 ---
@@ -139,6 +140,15 @@
  &nbsp;&nbsp;&nbsp;◆ #03 Mutable Vs. Immutable: https://youtu.be/bbdmknnwcP8<br>
  &nbsp;&nbsp;&nbsp;◆ #04 Value Types Vs. Reference Types Deep Dive: https://youtu.be/lfGh6r-T-0g<br>
  &nbsp;&nbsp;&nbsp;◆ #05 Write Code Like a sentence: https://youtu.be/o2PW8xe5CSk <br>
+ &nbsp;&nbsp;&nbsp;◆ #06 Service Registration [Short]: https://youtube.com/shorts/w7x3YWzHLM4 <br>
+ &nbsp;&nbsp;&nbsp;◆ #07 Checklist before Pull request: https://youtu.be/QNbg6GsV7cc <br>
+ &nbsp;&nbsp;&nbsp;◆ #08 Maximizing Concurrency: https://youtu.be/0cLzsDfzo_c <br>
+ &nbsp;&nbsp;&nbsp;◆ #08 Method Delegation: https://youtu.be/jeDZwJxHkDE<br>
+ &nbsp;&nbsp;&nbsp;◆ #09 Validate National Number TDD: https://youtu.be/4gvOhVekrGI<br>
+ &nbsp;&nbsp;&nbsp;◆ #09 Cyclomatic Complexity: https://youtu.be/gZ-eT1u6hCg<br>
+ &nbsp;&nbsp;&nbsp;◆ #10 Fluent Configuration: https://youtu.be/lj7uFsiLr58<br>
+ &nbsp;&nbsp;&nbsp;◆ #11 Date & Time Distilled .NET: https://youtu.be/CQvM5oMitm4<br>
+
 
 🚩 ADO.NET, ORM And EF-Core
  ---
@@ -192,5 +202,6 @@
 &nbsp;&nbsp;&nbsp;◆ #01 Introduction to web development https://youtu.be/hr5fzEgDTAI<br>
 &nbsp;&nbsp;&nbsp;◆ #02 Web Essentials: https://youtu.be/ivi5_JYHcNw<br>
 &nbsp;&nbsp;&nbsp;◆ #03 ASP.NET Tooling Part1: https://youtu.be/ArEF8Q163sY<br>
-&nbsp;&nbsp;&nbsp;◆ #04 ASP.NET Tooling Part2: https://youtu.be/Zv5hyEVD_WQ?si=77tyY6n1aYHbYWBu<br>
-&nbsp;&nbsp;&nbsp;◆ #05 ASP.NET 101: https://youtu.be/-bxjpkFDm0g?si=7veKEB5y3jMR58rN<br>
+&nbsp;&nbsp;&nbsp;◆ #04 ASP.NET Tooling Part2: https://youtu.be/Zv5hyEVD_WQ<br>
+&nbsp;&nbsp;&nbsp;◆ #05 ASP.NET 101: https://youtu.be/-bxjpkFDm0g<br>
+&nbsp;&nbsp;&nbsp;◆ #05 Application Startup: https://youtu.be/-bxjpkFDm0g <br>
