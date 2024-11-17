@@ -1,5 +1,3 @@
-# Hello: I am Issam, Thanks for stopping by!
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/user-attachments/assets/60da4a31-e5e9-48f7-8806-1d052fc6aaa2" alt="MVP Badge" style="width: 34%;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 33%;"/>
@@ -7,8 +5,9 @@
 </div>
 
 
+# Hello: I am Issam, Thanks for stopping by!
 
-
+### Roadmap for software engineer in Arabic 💪
 
 
 
