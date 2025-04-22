@@ -1,0 +1,25 @@
+
+<NavLink href="/checkout" class="btn border-0 shadow-none position-relative fs-5">
+    🛒
+    <span class="position-absolute top-75 start-100 translate-middle badge rounded-pill bg-danger">
+        @_service.GetCartItems().Sum(x => x.Quantity)
+        <span class="visually-hidden">cart item count</span>
+    </span>
+</NavLink>
+
+@code {
+
+    [Inject] private BookShopService _service { get; set; } = default!;
+    [Inject] private AppState _appState { get; set; } = default!;
+
+
+    protected override void OnInitialized()
+    {
+        _appState.OnChange += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        _appState.OnChange -= StateHasChanged;
+    }
+}

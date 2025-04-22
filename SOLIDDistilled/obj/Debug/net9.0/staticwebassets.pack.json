@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\obj\\Debug\\net9.0\\scopedcss\\bundle\\SolidDistilled.styles.css",
+      "PackagePath": "staticwebassets\\SolidDistilled.styles.css"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\accelerate.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\accelerate.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\clean-architecture.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\clean-architecture.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\clean-code.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\clean-code.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\code-complete.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\code-complete.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\continuous-delivery.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\continuous-delivery.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\ddd.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\ddd.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\design-patterns.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\design-patterns.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\fundamentals-architecture.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\fundamentals-architecture.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\google-se.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\google-se.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\grokking.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\grokking.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\legacy-code.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\legacy-code.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\mythical-man-month.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\mythical-man-month.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\peopleware.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\peopleware.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\phoenix-project.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\phoenix-project.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\pragmatic-programmer.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\pragmatic-programmer.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\refactoring.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\refactoring.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\sicp.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\sicp.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\soft-skills.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\soft-skills.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\xp-explained.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\xp-explained.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\Thumbnails\\ydkjs.jpg",
+      "PackagePath": "staticwebassets\\Thumbnails\\ydkjs.jpg"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\repos\\DemoSolid\\SolidDistilled\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SolidDistilled.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SolidDistilled.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SolidDistilled.props",
+      "PackagePath": "build\\SolidDistilled.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SolidDistilled.props",
+      "PackagePath": "buildMultiTargeting\\SolidDistilled.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SolidDistilled.props",
+      "PackagePath": "buildTransitive\\SolidDistilled.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

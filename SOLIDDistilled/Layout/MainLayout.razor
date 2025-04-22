@@ -1,0 +1,15 @@
+﻿@using SolidDistilled.Services
+@inherits LayoutComponentBase
+ <div style="min-height: 100vh;" class="container mt-2">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark border-bottom border-secondary">
+        <div class="container-fluid">
+          <a class="navbar-brand fw-bold" href="/">📚 BookShop</a>
+          <div class="d-flex align-items-center">
+            <CartIcon />
+          </div>
+        </div>
+      </nav> 
+      <main class="container mt-4 pb-4">
+        @Body
+      </main>
+    </div>

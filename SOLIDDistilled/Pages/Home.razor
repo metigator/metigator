@@ -1,0 +1,52 @@
+﻿@page "/"
+@using SolidDistilled.Models 
+@using SolidDistilled.Services
+
+<PageTitle>Home</PageTitle>
+
+<div class="container mt-5 d-flex flex-wrap justify-content-center gap-4">
+    @foreach (var book in _service.GetBooks())
+    {
+        <div class="card border-0 rounded-3 bg-body-tertiary" style="width: 280px;">
+            <img src="/thumbnails/@book.Thumbnail"
+                 alt="@book.Title"
+                 class="card-img-top object-fit-contain border-bottom"
+                 style="height: 220px;" />
+            <div class="card-body d-flex flex-column">
+                <h5 class="card-title fw-bold mb-1">@book.Title</h5>
+                <p class="card-text text-secondary mb-2">@book.Author.Replace(",", " | ")</p>
+
+        <div class="d-flex flex-column gap-2 mt-auto">
+    <div class="d-flex justify-content-between align-items-center">
+        <span class="fw-semibold text-light fs-5">$@book.Price</span>
+        <div class="d-flex align-items-center gap-2">
+            @if (_service.GetQuantity(book) > 0)
+            {
+                <span class="badge bg-light text-dark">@_service.GetQuantity(book)</span>
+            }
+            <button class="btn btn-outline-light btn-sm d-flex align-items-center gap-1 px-3" @onclick="() => AddToCart(book)">
+                🛒 Add
+            </button>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    }
+</div>
+
+
+@code {
+    [Inject]
+    private AppState _appState {get; set;} = default!;
+
+    [Inject]
+    private BookShopService _service {get; set;} = default!;
+
+    private void AddToCart(Book book)
+    {
+        _service.AddToCart(book);
+        _appState.NotifyStateChanged();
+    }
+}
