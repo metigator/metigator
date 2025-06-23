@@ -255,15 +255,14 @@ A comprehensive guide to mastering C#, .NET, and related technologies from begin
 
 ## ⁉️ **Problem Solving Techniques**
 
-| #                | Topic                                 | Link                                   |
-| ---------------- | ------------------------------------- | -------------------------------------- |
-| 01               | Brute-Force                           | [Watch](https://youtu.be/WPb_BEmvjL8)  |
-| 02               |
-| Divide & Conquer | [Watch](https://youtu.be/2qHW4F-b0sQ) |
-| 03               | Fixed-Sliding window                  | [Watch](https://youtu.be/GFWxylyEkuk)  |
-| 04               | Dynamic-Sliding window                | [Watch](https://youtu.be/ghaT412i4-s)  |
-| 05               | Backtracking                          | [Watch](https://youtu.be/Aow7TaEYk0c)  |
-| 06               | Two-Pointers                          | [Watch](https://youtu.be/SB3YDTi4Xi8J) |
+| #   | Topic                  | Link                                   |
+| --- | ---------------------- | -------------------------------------- |
+| 01  | Brute-Force            | [Watch](https://youtu.be/WPb_BEmvjL8)  |
+| 02  | Divide & Conquer       | [Watch](https://youtu.be/2qHW4F-b0sQ)  |
+| 03  | Fixed-Sliding window   | [Watch](https://youtu.be/GFWxylyEkuk)  |
+| 04  | Dynamic-Sliding window | [Watch](https://youtu.be/ghaT412i4-s)  |
+| 05  | Backtracking           | [Watch](https://youtu.be/Aow7TaEYk0c)  |
+| 06  | Two-Pointers           | [Watch](https://youtu.be/SB3YDTi4Xi8J) |
 ---
 
 ## 🔴 **Life Events**
